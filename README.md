@@ -48,7 +48,7 @@ Analysis of over 98,000 user records found that while 16.3% of total users revis
 
 
 
-## Recommendation
+## Recommendations
 
 ### Addressing User Retention Challenges
 
@@ -68,7 +68,7 @@ Analysis of over 98,000 user records found that while 16.3% of total users revis
 - **Staffing considerations for selected regions:** To mitigate the risk of nonconforming items reaching buyers from regions with high transaction volumes and below-average pass rates, consider increasing staffing at relevant authentication hubs to alleviate workload.
 
 
-### Assumptions and Caveats
+## Assumptions and Caveats
 
 <ul>
     <li id="pass_rate">The minimum scenario includes only users with 0% pass rate. The maximum scenario, where 78.3% failed, assumes the worst case where users that do not have a perfect record all failed their first sale.</li>
@@ -80,5 +80,5 @@ Analysis of over 98,000 user records found that while 16.3% of total users revis
 
 ---
 - See SQL queries in the [SQL file](./Script/Exploration.sql).
-- See analysis and visualization in the [Jupyter Notebook](./Script/Analysis_annotated.ipynb)
-- See data source on [Kaggle](https://www.kaggle.com/datasets/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store?select=users.6M0xxK.2020.public.csv)
+- See analysis and visualization in the [Jupyter Notebook](./Script/Analysis_annotated.ipynb).
+- See data source on [Kaggle](https://www.kaggle.com/datasets/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store?select=users.6M0xxK.2020.public.csv).
