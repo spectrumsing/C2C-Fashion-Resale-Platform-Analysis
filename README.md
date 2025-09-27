@@ -8,6 +8,9 @@
 
 Analysis of over 98,000 user records found that while 16.3% of total users revisited the platform in the past year, retaining and converting inactive users proved to be challenging, with over 92% dropping out entirely. Negligible correlation between follows, likes and purchases (r=0.11, and r=0.14, respectively) suggest social features are unlikely to be primary drivers of purchases. Similarly, the lack of correlation between followers and sales for sellers (r=-0.05) further underscores the limited utility of the current implementation for transactional purposes. The high failure rate in seller onboarding, with over 54% of first-time sellers failing the vetting process, points to potential issues with listing guidelines. The 'trusted badge' system appears to have limited impact, as sell-through rates were virtually identical for badged and non-badged sellers, undermining its intended purpose of signifying trustworthiness. Looking ahead, prioritizing the building of users’ trust in authenticity and facilitating seamless transactions is essential for solidifying Vestiaire Collective's position as a designer brand-focused destination. Addressing the low pass rate through revised guidelines is a crucial step. Additionally, future investments should focus on enhancing quality control by expanding digital authentication capabilities and physical authentication hubs in high-volume regions to reduce processing cost.
 
+<video width="310" height="150" src="https://github.com/user-attachments/assets/0421755e-1c73-47ae-81e5-a9bf680baece"></video>
+
+
 ## Insights
 
 ### Rentention
